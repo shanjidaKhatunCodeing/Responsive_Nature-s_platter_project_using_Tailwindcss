@@ -1,0 +1,22 @@
+/* common style strat */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+img {
+  width: 100%;
+}
+.btn {
+  padding: 5px 15px;
+  font-size: 20px;
+  background-color: #179800;
+  border-radius: 8px;
+  color: #FFFFFF;
+}
+.btn:hover {
+  background-color: #1daa04;
+}
+
+/* common style end */
+
